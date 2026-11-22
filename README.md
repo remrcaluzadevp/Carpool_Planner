@@ -46,11 +46,11 @@ npx drizzle-kit generate --name <describe_the_change>
 ```
 
 ## Ideas for later
-
 - Optional organizer passcode so only the organizer can edit trip details or remove cars
-- Recurring trips (e.g. every Friday home run) and round-trip seat lists
+- Recurring trips and round-trip seat lists
 - Gas/cost split per rider
 - Live updates while the board is open
+
 ## How to Install and Run
 
 
@@ -58,10 +58,11 @@ npx drizzle-kit generate --name <describe_the_change>
 https://carpool-planner-cf8897.netlify.app
 
 ## GitHub Repository
-
+https://remrcaluzadevp.github.io/My-Portfolio/
 
 ## Author
 Remiellene R. Caluza 
+
 BSINTE 2A 
 
 ## Screenshot
