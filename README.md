@@ -51,3 +51,5 @@ npx drizzle-kit generate --name <describe_the_change>
 - Recurring trips (e.g. every Friday home run) and round-trip seat lists
 - Gas/cost split per rider
 - Live updates while the board is open
+
+https://carpool-planner-cf8897.netlify.app
