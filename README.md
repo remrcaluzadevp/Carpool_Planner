@@ -52,6 +52,12 @@ npx drizzle-kit generate --name <describe_the_change>
 - Live updates while the board is open
 
 ## How to Install and Run
+1. Open Live Demo in your browser: https://carpool-planner-cf8897.netlify.app
+
+2. Or download the code, open index.html in your browser
+On mobile Chrome, tap 3 dots > Add to Home Screen to install as app
+
+3. Look at the code and scroll down to see the download button.
 
 
 ## Live Demo
